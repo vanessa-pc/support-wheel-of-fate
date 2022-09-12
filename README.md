@@ -11,6 +11,7 @@ The design document can be found [here](https://docs.google.com/document/d/1z5PD
 - [ ] Finish create roster function
 - [ ] Add timeframe to allow user to select time period (minimum of 2 weeks)
 - [ ] Add more test coverage to test remaining functionality & mock dependencies
+- [ ] Add tailwind breakpoints and style for other screen sizes
 - [ ] Deploy client and backend
 - [ ] Set up S3 bucket connection for file generated ( finalised roster )
 - [ ] Add husky and CI/CD checks on github
