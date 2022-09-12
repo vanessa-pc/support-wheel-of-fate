@@ -2,12 +2,19 @@ import { CriteriaChecklist } from "./modules/CriteriaChecklist";
 import { DeveloperNamesForm } from "./modules/DeveloperNamesForm";
 
 function App() {
-  //TODO
+  // TODO
   // add code when upload file button is clicked
+  // create function inside utils to read file and extrapolate team's names
   // const onUploadClick = () => {};
 
-  //TODO
-  //add code when generate rosters is clicked
+  // TODO
+  // add code when generate rosters button is clicked
+  // PSEUDO CODE
+  // considering the simplest scenario of having 10 engineers in total, each has to do 2 shifts within each 2-week period
+  // STEP 1
+  // divide 10 engineers in 2 teams (5 and 5)
+  // solution 1: assign first half to morning shifts and the other to afternoon shifts for each week
+
   // const onRosterClick = () => {};
 
   return (

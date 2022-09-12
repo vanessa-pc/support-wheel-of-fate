@@ -150,7 +150,7 @@ export const DeveloperNamesForm = () => {
           type="button"
           onClick={() => append({} as any)}
         >
-          Add
+          Add Teammate
         </button>
         <input
           className="transition-colors duration-150 bg-green rounded-md cursor-pointer focus:shadow-outline  hover:bg-lightGreen text-center px-2 border border-green"

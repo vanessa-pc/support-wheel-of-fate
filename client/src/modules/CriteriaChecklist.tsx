@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useForm } from "react-hook-form";
 
-// types for criteria
+// types for criteria needed to generate the roster by
 type CriteriaTypes = {
   criteria: {
     oneShiftPerDay?: boolean;
